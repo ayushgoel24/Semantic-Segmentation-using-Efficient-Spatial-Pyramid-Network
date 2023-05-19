@@ -10,6 +10,6 @@ This repository is organized as:
 The ESPNet-C model achieves mIoU of 70.0% on Cityscapes dataset.
 The ESPNet model achieves mIoU of 70.0% on Cityscapes dataset.
 
-[![Result 1](static/output/dataset_1.mp4)](static/output/dataset_1.mp4)
-[![Result 2](static/output/dataset_1.mp4)](static/output/dataset_1.mp4)
-[![Result 3](static/output/dataset_1.mp4)](static/output/dataset_1.mp4)
+![Result 1](static/output/dataset_1.mp4)
+![Result 2](static/output/dataset_1.mp4)
+![Result 3](static/output/dataset_1.mp4)
