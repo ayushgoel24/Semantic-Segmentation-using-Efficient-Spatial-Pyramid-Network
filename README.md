@@ -3,13 +3,26 @@
 ## Structure of this repository
 
 This repository is organized as:
-* [training](/src/training/) This directory contains the source code for training the ESPNet-C and ESPNet models.
-* [testing](/src/testing/) This directory contains the source code for evaluating the model on RGB Images.
+
+- [training](/src/training/) This directory contains the source code for training the ESPNet-C and ESPNet models.
+- [testing](/src/testing/) This directory contains the source code for evaluating the model on RGB Images.
 
 ## Results
+
 The ESPNet-C model achieves mIoU of 70.0% on Cityscapes dataset.
 The ESPNet model achieves mIoU of 70.0% on Cityscapes dataset.
 
-![Result 1](static/output/dataset_1.gif)
-![Result 2](static/output/dataset_2.gif)
-![Result 3](static/output/dataset_3.gif)
+<p float="left">
+    <img src="./static/output/dataset_1.gif">
+    <p align="center">Output from Dataset 1</p>
+</p>
+<br/>
+<p float="left">
+    <img src="./static/output/dataset_2.gif">
+    <p align="center">Output from Dataset 2</p>
+</p>
+<br/>
+<p float="left">
+    <img src="./static/output/dataset_3.gif">
+    <p align="center">Output from Dataset 3</p>
+</p>
