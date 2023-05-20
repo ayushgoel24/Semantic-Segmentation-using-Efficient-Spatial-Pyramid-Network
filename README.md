@@ -1,5 +1,9 @@
 # Semantic Segmentation using Efficient Spatial Pyramid Network
 
+## Overview
+Semantic segmentation plays a critical role in computer vision applications, enabling pixel-level understanding of images. The above model leverages an efficient spatial pyramid of dilated convolutions to address the challenges in this domain, providing superior performance with reduced computational complexity.
+
+
 ## Structure of this repository
 
 This repository is organized as:
