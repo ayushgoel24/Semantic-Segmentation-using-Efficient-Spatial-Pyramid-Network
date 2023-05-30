@@ -1,5 +1,9 @@
 # Semantic Segmentation using Efficient Spatial Pyramid Network
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Issues](https://img.shields.io/github/issues/ayushgoel24/Semantic-Segmentation-using-Efficient-Spatial-Pyramid-Network.svg)](https://github.com/ayushgoel24/Semantic-Segmentation-using-Efficient-Spatial-Pyramid-Network/issues)
+[![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-orange.svg)](https://github.com/ayushgoel24/Semantic-Segmentation-using-Efficient-Spatial-Pyramid-Network)
+
 ## Overview
 Semantic segmentation plays a critical role in computer vision applications, enabling pixel-level understanding of images. The above model leverages an efficient spatial pyramid of dilated convolutions to address the challenges in this domain, providing superior performance with reduced computational complexity.
 
