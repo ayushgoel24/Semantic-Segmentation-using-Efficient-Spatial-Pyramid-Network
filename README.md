@@ -9,9 +9,7 @@ Semantic segmentation plays a critical role in computer vision applications, ena
 
 
 ## Key Features
-- <b>Efficient Spatial Pyramid</b>: ESPNet utilizes a spatial pyramid of dilated convolutions to capture multi-scale context information effectively. This architecture improves the accuracy and robustness of semantic segmentation models.<br/>
-- <b>State-of-the-Art Performance</b>: By incorporating the ESPNet model, we achieved state-of-the-art results in semantic segmentation tasks, surpassing previous benchmarks in terms of accuracy and efficiency.<br/>
-- <b>Open-Source Implementation</b>: This repository provides the complete code implementation of the ESPNet model, allowing researchers and practitioners to reproduce the results and further extend the model.
+- <b>Efficient Spatial Pyramid</b>: The network utilizes a spatial pyramid of dilated convolutions to capture multi-scale context information effectively. This architecture improves the accuracy and robustness of semantic segmentation models.<br/>
 
 
 ## Structure of this repository
